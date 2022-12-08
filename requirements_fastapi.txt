@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+pandas
+numpy
+torch==1.13.0+cpu
+timm
+h5py
+fastapi
+uvicorn
+python-multipart
